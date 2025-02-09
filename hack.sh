@@ -13,7 +13,7 @@ echo -e '\e[92;1m
 \e[37m[1]\e[32m Update                        \e[37m[2]\e[32m Phishing Tool				
 \e[37m[3]\e[32m WebCam Hack                   \e[37m[4]\e[32m Subscan			
 \e[37m[5]\e[32m Email Bomber		  \e[37m[6]\e[32m DDOS Attack			
-\e[37m[7]\e[32m How to use it ?	          \e[37m[8]\e[32m Delete installed Program		
+\e[37m[7]\e[32m Games                     \e[37m[8]\e[32m Delete installed Program		
 \e[37m[9]\e[32m Ip Info	                  \e[37m[10]\e[32m dorks-eye
 \e[37m[11]\e[32m HackerPro                    \e[37m[12]\e[32m RED_HAWK
 \e[37m[13]\e[32m VirusCrafter                 \e[37m[14]\e[32m Info-Site
