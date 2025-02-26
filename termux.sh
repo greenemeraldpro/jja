@@ -37,6 +37,23 @@ pkg install python python3 -y
 pkg install pip pip3 -y
 pkg install curl -y
 pkg install nmap -y
+sleep 1
+git clone https://github.com/htr-tech/zphisher
+git clone https://github.com/techchipnet/CamPhish
+git clone https://github.com/zidansec/subscan
+git clone https://github.com/Hackertrackersj/Tbomb.git
+git clone https://github.com/palahsu/DDoS-Ripper.git
+git clone https://github.com/htr-tech/track-ip.git
+git clone https://github.com/BullsEye0/dorks-eye.git
+git clone https://github.com/jaykali/hackerpro.git
+git clone https://github.com/king-hacking/info-site.git
+git clone https://github.com/Devil-Tigers/TigerVirus
+git clone https://github.com/MrSqar-Ye/BadMod.git
+git clone https://github.com/fu8uk1/facebash
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+git clone https://github.com/FDX100/Auto_Tor_IP_changer.git
+git clone https://github.com/greenemeraldpro/Tricks
+git clone https://github.com/greenemeraldpro/spoofer
 cd Tools
 pkg update
 clear
