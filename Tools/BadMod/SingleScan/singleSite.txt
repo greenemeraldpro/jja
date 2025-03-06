@@ -1,0 +1,12 @@
+
+  -[-============== SUBDOMAINS SCANNER ==============-]- 
+cpanel.dingkelik.net   IP : 103.123.62.41
+webdisk.dingkelik.net   IP : 103.123.62.41
+webmail.dingkelik.net   IP : 103.123.62.41
+
+  -[-============== SUBDOMAINS SCANNER ===============-]- 
+
+  -[-============== REVERSE DNS ==============-]- 
+No    : PTR    : records    : found
+  -[-============== REVERSE DNS END ===============-]- 
+
