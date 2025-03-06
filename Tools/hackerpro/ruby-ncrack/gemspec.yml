@@ -1,0 +1,26 @@
+name: ruby-ncrack
+summary: A Ruby interface to Ncrack.
+description:
+  A Ruby interface to Ncrack, Network authentication cracking tool.
+
+license: MIT
+authors: Postmodern
+email: postmodern.mod3@gmail.com
+homepage: http://github.com/postmodern/ruby-ncrack#readme
+has_yard: true
+
+metadata:
+  documentation_uri: https://rubydoc.info/gems/ruby-ncrack
+  source_code_uri:   https://github.com/postmodern/ruby-ncrack
+  bug_tracker_uri:   https://github.com/postmodern/ruby-ncrack/issues
+  changelog_uri:     https://github.com/postmodern/ruby-ncrack/blob/master/ChangeLog.md
+  rubygems_mfa_required: 'true'
+
+requirements: "ncrack >= 0.7"
+
+dependencies:
+  command_mapper: ~> 0.1
+  nokogiri: ~> 1.0
+
+development_dependencies:
+  bundler: ~> 2.0
